@@ -1,0 +1,19 @@
+# 编译产物
+bin/
+obj/
+
+# 数据文件
+data/
+
+# 系统文件
+.DS_Store
+.vscode/
+*.swp
+*~
+
+# 可执行文件
+*.exe
+*.out
+
+# 调试文件
+*.dSYM/ 
